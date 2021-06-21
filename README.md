@@ -66,7 +66,7 @@ Things that we can Perform with the help of Mediapipe
 * Pose and Holistic Detection
 * Object Detection and Tracking
 
-In this Repository I have shred Following projects:
+In this Repository I have shared Following projects:
 * Hand Recognition
 * pose Estimation
 * Finger Counting
